@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Viswajith2003/Netflix-UI-clone.git/static/css/main.cae6a68a.css",
+    "main.js": "/Viswajith2003/Netflix-UI-clone.git/static/js/main.66ab7adc.js",
+    "index.html": "/Viswajith2003/Netflix-UI-clone.git/index.html",
+    "main.cae6a68a.css.map": "/Viswajith2003/Netflix-UI-clone.git/static/css/main.cae6a68a.css.map",
+    "main.66ab7adc.js.map": "/Viswajith2003/Netflix-UI-clone.git/static/js/main.66ab7adc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cae6a68a.css",
+    "static/js/main.66ab7adc.js"
+  ]
+}
